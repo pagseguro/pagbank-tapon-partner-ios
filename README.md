@@ -4,6 +4,6 @@ O **PagBank Tap On** é um SDK para iOS que permite que seu aplicativo aceite pa
 
 > 📘 No Tap On, a princípio, serão aplicadas as taxas padrão, sem possibilidade de negociação. Para mais detalhes, entre em contato com o time Comercial.
 
-> 📘 Para integrar aplicativos Android, consulte a documentação do Tap On - Android. O mecanismo de comunicação e os objetos são diferentes entre os dois sistemas operacionais.
+> 📘 Para integrar aplicativos Android, consulte a documentação do [Tap On - Android](https://developer.pagbank.com.br/docs/tap-on-android). O mecanismo de comunicação e os objetos são diferentes entre os dois sistemas operacionais.
 
 **Documentação:** https://developer.pagbank.com.br/docs/tap-on-ios
