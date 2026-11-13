@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
     spec.name         = 'TapOnPartner'
-    spec.version      = '2.1.2'
+    spec.version      = '2.1.3'
     spec.author       = { 'PagBank' => 'desenvolvedores@pagseguro.com.br' }
     spec.homepage     = 'https://developer.pagbank.com.br/docs/tap-on-ios'
     spec.summary      = 'Framework responsável pelo TapOn PagBank iOS para parceiros.'
